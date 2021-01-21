@@ -5,7 +5,7 @@ Basic application showcasing various features of android studio views.
 
 ### App Walk-though
 
-<img src="https://s3.amazonaws.com/img0.recordit.co/J9d9Z3FdU7.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1611200630&Signature=w%2FYdFl6EYFlszh2T1lM6huzAlaw%3D" width=200><br>
+<img src="https://recordit.co/J9d9Z3FdU7.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
